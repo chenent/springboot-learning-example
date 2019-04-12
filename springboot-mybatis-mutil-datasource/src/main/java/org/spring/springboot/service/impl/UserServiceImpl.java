@@ -1,7 +1,7 @@
 package org.spring.springboot.service.impl;
 
-import org.spring.springboot.dao.cluster.CityDao;
-import org.spring.springboot.dao.master.UserDao;
+import org.spring.springboot.dao.master.CityDao;
+import org.spring.springboot.dao.cluster.UserDao;
 import org.spring.springboot.domain.City;
 import org.spring.springboot.domain.User;
 import org.spring.springboot.service.UserService;
